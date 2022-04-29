@@ -24,7 +24,7 @@ Tech Stack:
 
 This is a simple project. You can use any server to serve up the html pages. Once the server is runnning just go to the localhost link the server provides.
 
-<h1>Snapshots of our project</h1>
+<h1>Snapshots of Project</h1>
 
 1. This is the Landing page of To-Do
 
